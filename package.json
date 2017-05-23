@@ -1,7 +1,7 @@
 {
   "name": "sls-webpack",
-  "version": "0.0.1",
-  "description": "Serverless plugin to bundle your javascript with Webpack",
+  "version": "0.0.0",
+  "description": "Serverless v1.x plugin to webpack your serverless project",
   "main": "index.js",
   "author": "Steven Inskip",
   "repository": {
