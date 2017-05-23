@@ -1,6 +1,6 @@
 {
   "name": "sls-webpack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Serverless v1.x plugin to webpack your serverless project",
   "main": "index.js",
   "author": "Steven Inskip",
@@ -9,7 +9,14 @@
     "url": "git+https://github.com/SkippyZA/sls-webpack.git"
   },
   "keywords": [
-    "serverless", "1.0", "webpack", "babel", "typescript", "es6", "plugin", "runtime"
+    "serverless",
+    "1.0",
+    "webpack",
+    "babel",
+    "typescript",
+    "es6",
+    "plugin",
+    "runtime"
   ],
   "license": "MIT",
   "bugs": {
